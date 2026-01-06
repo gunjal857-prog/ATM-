@@ -1,7 +1,7 @@
-# ATM-
-MY FIRST ATM MENUE.
-<br>
-AUTHOR - GAURAV GUNJAL
+//# ATM-
+//MY FIRST ATM MENUE.
+//<br>
+//AUTHOR - GAURAV GUNJAL
 
 #include <stdio.h>
 
